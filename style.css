@@ -1,0 +1,42 @@
+h1{
+  color:red;
+  text-align: center;
+}
+
+.Hello{
+  background-color: grey;
+  font-size: 20px;
+  width: 150px;
+  height: 100px;
+  margin: 3px;
+  padding: 1px;
+  font-family: Arial, sans-serif;
+}
+
+table{
+  border: 2px solid black;
+  border-collapse: collapse;
+  width: 50%;
+  text-align: center;
+}
+
+th, td{
+  border: 1px solid black;
+}
+th{
+  background-color: lightgrey;
+
+}
+td{
+  background-color: skyblue;
+}
+#one, #two, #three{
+  margin: 10px;
+  font-size: 20px;
+  text-align: center;
+  color: brown;
+}
+.name{
+  color: red;
+  font-weight: bold;
+}
